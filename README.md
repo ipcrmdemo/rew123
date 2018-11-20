@@ -14,7 +14,7 @@ This project is driven using [Maven][mvn].
 You can run the service locally using the following from the command:
 foobar11
 ```
-$ ./mvnw spring-boot:run
+$ ./mvnw spring-boot:runn
 ```
 
 ### Run tests
