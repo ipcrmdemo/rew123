@@ -14,7 +14,7 @@ class Rew123Controller {
 
     @GetMapping("/")
     public String root() {
-        return "Hello, world! ECS UPDATES";
+        return "Hello, world! ECS UPDATES!";
     }
 
 }
