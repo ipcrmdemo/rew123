@@ -12,9 +12,9 @@ This project is driven using [Maven][mvn].
 ### Run locally
 
 You can run the service locally using the following from the command:
-foo
+foobar11
 ```
-$ ./mvnw spring-boot:run
+$ ./mvnw spring-boot:runn
 ```
 
 ### Run tests
